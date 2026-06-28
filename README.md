@@ -33,7 +33,7 @@ FraudShield is a full-stack real-time fraud detection and monitoring system that
 - Hybrid risk scoring engine (rules + ML fallback)
 - Case management system for flagged transactions
 - Analytics dashboard for insights
-- Role-based access (Admin / Analyst)
+- Role-based access (Admin / Analyst / User)
 
 ---
 
